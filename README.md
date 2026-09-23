@@ -114,12 +114,3 @@ Example:
 **WARNING: If you move an application folder to the Trash, the application resets. You lose its logins, settings and downloaded content.**
 
 **WARNING: You cannot recover junk items after the script removes them.**
-
-## Docker and OrbStack
-
-If you have both Docker Desktop and OrbStack installed, the script tells you. Each one uses its own disk space. If you use only one of them, remove the other one to get more space.
-
-- To remove Docker Desktop, open it and click **Troubleshoot > Uninstall**.
-- To remove OrbStack, open its menu and click **Uninstall**.
-
-The application must be running before the script can remove its unused images.
