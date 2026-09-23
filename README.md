@@ -113,8 +113,6 @@ Example:
 
 **WARNING: If you move an application folder to the Trash, the application resets. You lose its logins, settings and downloaded content.**
 
-**WARNING: The Steam and Battle.net folders can contain installed games. If you remove these folders, you must download the games again.**
-
 **WARNING: You cannot recover junk items after the script removes them.**
 
 ## Docker and OrbStack
