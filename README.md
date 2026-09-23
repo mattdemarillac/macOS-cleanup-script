@@ -1,6 +1,7 @@
 # mac-cleanup.sh
 
-This script finds files that use space in "System Data" on macOS. It can also remove the files that are not necessary.
+This script finds files that use space in "System Data" on macOS. It can also remove the files that are not necessary interactively.
+Please review all files/ folders and consider their importance. 
 
 ## What the script does
 
