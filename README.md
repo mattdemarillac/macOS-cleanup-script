@@ -99,7 +99,8 @@ For Time Machine snapshots, the script asks for your password.
 Example:
 
 ```bash
-~/Downloads/mac-cleanup.sh --clean --min-mb 100
+chmod +x mac-cleanup.sh
+sudo ./mac-cleanup.sh --clean --min-mb 100
 ```
 
 ## After you clean
